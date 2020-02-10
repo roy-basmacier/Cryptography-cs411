@@ -1,5 +1,5 @@
 # Cryptography (cs411)
-Homework for my cryptography course.
+Project + Homework for cryptography course.
 
 # Homework 1:
 Shift cipher, Affine cipher, Vigenere cipher.
